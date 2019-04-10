@@ -1,0 +1,11 @@
+C:\Users\d.v.kulemin.UTMN\source\repos\icon_deleter\icon_deleter\bin\Debug\netcoreapp2.0\icon_deleter.deps.json
+C:\Users\d.v.kulemin.UTMN\source\repos\icon_deleter\icon_deleter\bin\Debug\netcoreapp2.0\icon_deleter.runtimeconfig.json
+C:\Users\d.v.kulemin.UTMN\source\repos\icon_deleter\icon_deleter\bin\Debug\netcoreapp2.0\icon_deleter.runtimeconfig.dev.json
+C:\Users\d.v.kulemin.UTMN\source\repos\icon_deleter\icon_deleter\bin\Debug\netcoreapp2.0\icon_deleter.dll
+C:\Users\d.v.kulemin.UTMN\source\repos\icon_deleter\icon_deleter\bin\Debug\netcoreapp2.0\icon_deleter.pdb
+C:\Users\d.v.kulemin.UTMN\source\repos\icon_deleter\icon_deleter\obj\Debug\netcoreapp2.0\icon_deleter.csprojAssemblyReference.cache
+C:\Users\d.v.kulemin.UTMN\source\repos\icon_deleter\icon_deleter\obj\Debug\netcoreapp2.0\icon_deleter.csproj.CoreCompileInputs.cache
+C:\Users\d.v.kulemin.UTMN\source\repos\icon_deleter\icon_deleter\obj\Debug\netcoreapp2.0\icon_deleter.AssemblyInfoInputs.cache
+C:\Users\d.v.kulemin.UTMN\source\repos\icon_deleter\icon_deleter\obj\Debug\netcoreapp2.0\icon_deleter.AssemblyInfo.cs
+C:\Users\d.v.kulemin.UTMN\source\repos\icon_deleter\icon_deleter\obj\Debug\netcoreapp2.0\icon_deleter.dll
+C:\Users\d.v.kulemin.UTMN\source\repos\icon_deleter\icon_deleter\obj\Debug\netcoreapp2.0\icon_deleter.pdb
